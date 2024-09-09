@@ -5,7 +5,7 @@ name = input("Enter your name :")
 print(f"Good Morning {name}")
 
 letter = '''Dear <name> 
-you are selected
+you are s
 <date>
 '''
 
